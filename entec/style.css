@@ -428,7 +428,7 @@ h3{
 
 
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1080px) {
     .topnav a:not(:first-child) {
         display: none;
     }
