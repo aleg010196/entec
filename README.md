@@ -1,0 +1,2 @@
+# entec
+сайт для entec
